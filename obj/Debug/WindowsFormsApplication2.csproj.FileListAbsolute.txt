@@ -1,0 +1,9 @@
+\\VBOXSVR\VirtualBox_VMs\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+\\VBOXSVR\VirtualBox_VMs\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+\\VBOXSVR\VirtualBox_VMs\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+\\VBOXSVR\VirtualBox_VMs\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+\\VBOXSVR\VirtualBox_VMs\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+\\VBOXSVR\VirtualBox_VMs\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+\\VBOXSVR\VirtualBox_VMs\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+\\VBOXSVR\VirtualBox_VMs\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Game1Form.game1.resources
+\\VBOXSVR\VirtualBox_VMs\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Game1Form.Properties.Resources.resources
